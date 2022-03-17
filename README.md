@@ -4,20 +4,20 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
+  <a href="https://t.me/DarkRubix">
+    <img src="https://github.com/incmaanop/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/CodeXBotz">
+  <a href="https://t.me/DarkRubix">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/codexbotzsupport">
+  <a href="https://t.me/DarkRubix">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/stargazers">
+  <a href="https://github.com/incmaanop/File-Sharing-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
   </a>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
+  <a href="https://github.com/incmaanop/File-Sharing-Bot/fork">
     <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
   </a>  
 </p>
@@ -46,18 +46,18 @@ I Guess This Will Be Usefull For Many People.....😇.
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
-<a href="https://youtu.be/LCrkRTMkmzE">
+<a href="https://t.me/DarkRubix">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
-
+**Thanks to [Erich](https://t.me/DarkRubix) and his [MSB](https://t.me/moviessearch_box) for this Video**
+<p> [OFFICIAL BY](@DarkRubix)
 #### Deploy on Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FCodeXBotz%2FFile-Sharing-Bot&plugins=postgresql&envs=TG_BOT_TOKEN%2COWNER_ID%2CAPP_ID%2CAPI_HASH%2CCHANNEL_ID%2CFORCE_SUB_CHANNEL%2CSTART_MESSAGE%2CFORCE_SUB_MESSAGE%2CADMINS&optionalEnvs=ADMINS&TG_BOT_TOKENDesc=Your+Bot+token%2C+Get+it+from+%40Botfather&OWNER_IDDesc=An+integer+of+consisting+of+your+owner+ID&APP_IDDesc=your+app+id%2C+take+it+from+my.telegram.org&API_HASHDesc=your+api+hash%2C+take+it+from+my.telegram.org&CHANNEL_IDDesc=make+a+channel+%28database+channel%29%2C+then+make+the+bot+as+admin+in+channel%2C+and+it%27s+id&FORCE_SUB_CHANNELDesc=id+of+the+channel+or+group%2C+if+you+want+enable+force+sub+feature+else+put+0&START_MESSAGEDesc=Optional%3A+start+message+of+bot%2C+use+HTML+parsemode+format&FORCE_SUB_MESSAGEDesc=Optional%3A+Force+Sub+message+of+bot%2C+use+HTML+parsemode+format&ADMINSDesc=A+space+separated+list+of+user_ids+of+Admins%2C+they+can+only+create+links&TG_BOT_TOKENDefault=1250450587&CHANNEL_IDDefault=-100&FORCE_SUB_CHANNELDefault=0&START_MESSAGEDefault=Hello+%7Bfirst%7D%5Cn%5CnI+can+store+private+files+in+Specified+Channel+and+other+users+can+access+it+from+special+link.&FORCE_SUB_MESSAGEDefault=Hello+%7Bfirst%7D%5Cn%5Cn%3Cb%3EYou+need+to+join+in+my+Channel%2FGroup+to+use+me%5Cn%5CnKindly+Please+join+Channel%3C%2Fb%3E&referralCode=CodeXBotz)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fincmaanop%2FFile-Sharing-Bot&plugins=postgresql&envs=TG_BOT_TOKEN%2COWNER_ID%2CAPP_ID%2CAPI_HASH%2CCHANNEL_ID%2CFORCE_SUB_CHANNEL%2CSTART_MESSAGE%2CFORCE_SUB_MESSAGE%2CADMINS&optionalEnvs=ADMINS&TG_BOT_TOKENDesc=Your+Bot+token%2C+Get+it+from+%40Botfather&OWNER_IDDesc=An+integer+of+consisting+of+your+owner+ID&APP_IDDesc=your+app+id%2C+take+it+from+my.telegram.org&API_HASHDesc=your+api+hash%2C+take+it+from+my.telegram.org&CHANNEL_IDDesc=make+a+channel+%28database+channel%29%2C+then+make+the+bot+as+admin+in+channel%2C+and+it%27s+id&FORCE_SUB_CHANNELDesc=id+of+the+channel+or+group%2C+if+you+want+enable+force+sub+feature+else+put+0&START_MESSAGEDesc=Optional%3A+start+message+of+bot%2C+use+HTML+parsemode+format&FORCE_SUB_MESSAGEDesc=Optional%3A+Force+Sub+message+of+bot%2C+use+HTML+parsemode+format&ADMINSDesc=A+space+separated+list+of+user_ids+of+Admins%2C+they+can+only+create+links&TG_BOT_TOKENDefault=1250450587&CHANNEL_IDDefault=-100&FORCE_SUB_CHANNELDefault=0&START_MESSAGEDefault=Hello+%7Bfirst%7D%5Cn%5CnI+can+store+private+files+in+Specified+Channel+and+other+users+can+access+it+from+special+link.&FORCE_SUB_MESSAGEDefault=Hello+%7Bfirst%7D%5Cn%5Cn%3Cb%3EYou+need+to+join+in+my+Channel%2FGroup+to+use+me%5Cn%5CnKindly+Please+join+Channel%3C%2Fb%3E&referralCode=CodeXBotz)
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone https://github.com/incmaanop/File-Sharing-Bot
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -92,7 +92,7 @@ python3 main.py
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/incmaanop/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
 
 ### Fillings
@@ -111,13 +111,13 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://t.me/moviessearch_box) For Support/Assistance And Our [Channel](https://t.me/moviessearch_box) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
 ### Credits
 
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+- Thanks To Dan For His Awsome [Libary](https://t.me/moviessearch_box)
 - Our Support Group Members
 
 ### Licence
